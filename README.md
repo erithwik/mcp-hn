@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/erithwik-mcp-hn-badge.png)](https://mseep.ai/app/erithwik-mcp-hn)
+
 # Hacker News MCP Server
 
 A Model Context Protocol (MCP) server that provides tools for fetching information from Hacker News.
