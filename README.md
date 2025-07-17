@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/erithwik-mcp-hn-badge.png)](https://mseep.ai/app/erithwik-mcp-hn)
+
 # Hacker News MCP Server
 
 [![smithery badge](https://smithery.ai/badge/mcp-hn)](https://smithery.ai/server/mcp-hn)
